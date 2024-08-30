@@ -1,0 +1,54 @@
+Analise Combinatoria -> Arranjo Simples: Anp = n! / (n-p)!
+Analise Combinatoria -> Arranjo Simples: Exemplo
+Analise Combinatoria -> Arranjo Simples: Treinar
+Analise Combinatoria -> Combinaçao Simples: Cnp = n! / (p!(n-p)!)
+Analise Combinatoria -> Permutaçao Simples: Exemplo
+Analise Combinatoria -> Permutaçao Simples: P = n!, sendo n!: n . (n - 1) . (n - 2). ... . 3 . 2 . 1
+Analise Combinatoria -> Permutaçao Simples: Treinar
+Estatistica -> Desvio Padrao: DP = √V
+Funçao de 1ºGrau ou Funçao Afim -> f(x) = ax + b
+Funçao de 2ºGrau -> Bhaskara -> x = (-b+- √b² - 4.a.c) / 2.a
+Funçao de 2ºGrau -> Vertice da Parabola -> Xv = -b/2a e Yv = -🔺/4a
+Funçao de 2ºGrau ou Funçao Quadratica -> f(x) = ax² + bx + c
+Funçao Exponencial -> f(x) = a^x, sendo a > 0 e a ≠ 0
+Funçao Logaritmica -> f(x) = loga x , sendo a real positivo e a ≠ 1
+Funçao Modular -> f(x) = |x| = {x, para x>=0 e -x, para x<0
+Funçao Polinomial -> f(x) = an . x^n + an-1 . x^n-1+ ... + a2 . x² + a1 . x¹ + a0
+Geometria Espacial -> Cilindro: Al= 2.π.R.h, sendo Al area lateral, r raio e h altura do cilindro
+Geometria Espacial -> Cone: Al = π.R. g, sendo Al area lateral, r raio e g geratriz
+Geometria Espacial -> Cubo: V = l³, sendo l o lado
+Geometria Espacial -> Esfera: A = 4. π.R², sendo A area da esfera e r raio
+Geometria Espacial -> Piramide: V=1/3 B.h, sendo V volume da piramide, B area da base e h altura
+Geometria Espacial -> Poliedro: Relação de Euler: V - A + F = 2, sendo v num de vertices, a, num de arestas e f num de faces
+Geometria Espacial -> Prisma: d = √a² + b² + c², sendo a,b,c medidas das dimensoes do paralelepípedo
+Geometria Espacial -> Prisma: V = B . h, sendo B area da base e h altura do prisma
+Geometria Plana -> Area do Circulo: A = π. r², sendo r medida do raio
+Geometria Plana -> Area do Losango: A = (D.d)/2, sendo D medida da diagonal maior e d da diagonal menor
+Geometria Plana -> Area do Paralelogramo: A = b.h, sendo b base e h altura
+Geometria Plana -> Area do Quadrado: A = L², sendo L medida do lado
+Geometria Plana -> Area do Retangulo: A = b.h, sendo b medida da base e h medida da altura
+Geometria Plana -> Area do Trapezio: A = ((B+b)h)/2, sendo B medida da base maior e b da base menor, h a altura
+Geometria Plana -> Area do Triangulo: A = (b.h)/2, sendo b medida da base e h medida da altura relativa a base
+Geometria Plana -> Comprimento da Circunferência: C = 2.π.r, sendo r o raio da circunferencia
+Geometria Plana -> Soma dos ângulos internos de um polígono: Si = (n - 2) . 180º, sendo n numero de lados do poligono
+Geometria Plana -> Teorema de Tales: AB/CD = A´B´/C´D´
+Matematica Financeira -> Juros Compostos: J = M - C,  sendo j juros, m montante e c capital
+Matematica Financeira -> Juros Compostos: M = C ( 1 + i)^t,  sendo m montante, c capital, i taxa de juros e t tempo
+Matematica Financeira -> Juros Simples: J = C . i . t, sendo c capital, i taxa de juros e t tempo
+Matematica Financeira -> Juros Simples: M = C + J, sendo m montante, c capital e j juros
+Numeros Complexos -> Forma Algebrica: z = a + b.i, sendo a parte real e b.i parte imaginaria  (sendo i = √−1)
+Probabilidade -> p(A) = n(A) / n(Ω), sendo n(A) numero de resultados favoraveis e n(Ω) resultados possiveis
+Produtos Notaveis -> Diferença de Quadrados: (a+b).(a-b) = a²-b²
+Produtos Notaveis -> Quadrado da Diferença: (a-b)² = a²-2.a.b+b²
+Produtos Notaveis -> Quadrado da Soma: (a+b)² = a²+2.a.b+b²
+Progressao Aritmetica -> Soma de uma PA finita: Sn = ((a1 + an)n) / 2, sendo n numero de termos
+Progressao Aritmetica -> Termo Geral: an = a1 + (n - 1) r, sendo n numero de termos e r razao da PA
+Progressao Geometrica -> Limite da soma de uma PG infinita:  lim n->∞ Sn= a1/(1-q), 0 < |q| < 1
+Progressao Geometrica -> Soma de uma PG finita: Sn = a1. ((1-q^n)/(1-q)), sendo n numero de termos e q razao da PG
+Progressao Geometrica -> Termo Geral: an = a1 . q^n-1, sendo n numero de termos e q razao da PG
+Triangulo Retangulo -> Cateto: b2 = a . n, sendo b o cateto, a hipotenusa e n projeçao do cateto b sobre a hipotenusa
+Triangulo Retangulo -> Hipotenusa: a2 = b2 + c2 (Teorema de Pitágoras), sendo a hipotenusa, b e c os catetos
+Trigonometria -> Funçao Cosseno -> f(x) = cos x
+Trigonometria -> Funçao Seno -> f(x) = sen x
+Trigonometria -> Lei dos Cossenos: a²=b² + c² – 2.b.c.cos(a)
+Trigonometria -> Tangente: tg α = sen α / cos α
